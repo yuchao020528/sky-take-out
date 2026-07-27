@@ -1,0 +1,8 @@
+**/target/
+.idea
+*.iml
+*.class
+*Test.java
+**/test/
+# 本地配置文件
+sky-server/src/main/resources/application-dev.yml
